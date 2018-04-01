@@ -35,6 +35,7 @@ def reverse(list):
             
 def main():
         
+    ## sequence list    
     list = [1,2,3,4,5,6,7]
     
     print("The max number ", max(list))
