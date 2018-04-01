@@ -38,8 +38,9 @@ def main():
     ## sequence list    
     list = [1,2,3,4,5,6,7]
     
-    print("The max number ", max(list))
-    print("The smallest number is: ", min(list))
+    print ("The sequence is:", list)
+    print("The max number: ", max(list))
+    print("The min number: ", min(list))
     print ("The reverse of this sequence is", reverse(list))
 
 
